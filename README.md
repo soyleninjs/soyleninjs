@@ -67,10 +67,6 @@ class SoyLeninJS {
 <img src="https://github-profile-trophy.vercel.app/?username=soyleninjs&theme=gruvbox" />
 
 <img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<h2>Mi última canción escuchada para programar</h2>
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=chakaloso.mx&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=ff0000&bar_color_cover=true)](https://open.spotify.com/playlist/08hf7hi6OozyNDe9z2drvg?si=7e1c9604be6442a8)
-
-<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<img width="100%" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg">
+<h2>Por si gustais apoyarme 😘</h2>
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G42SCZF)
 
