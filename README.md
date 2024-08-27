@@ -68,6 +68,6 @@ class SoyLeninJS {
 <img src="https://github-profile-trophy.vercel.app/?username=soyleninjs&theme=gruvbox" />
 
 <img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<h2>Por si gustais apoyarme 😘</h2>
+<h2>Apoyo 😘</h2>
 <a target="_blank" href="https://ko-fi.com/G2G42SCZF"><img alt="Codepen" src="https://ko-fi.com/img/githubbutton_sm.svg"></a>
 
