@@ -23,6 +23,7 @@ class SoyLeninJS {
   <li>🧩 Mi extension de chrome: <a href="https://chromewebstore.google.com/detail/devtools-for-frontends/jlgjopfebbpmjmbjblbgkjiiolpognjb">Devtools for Frontends</a></li>
   <li>🧩 Mi otra extension de chrome: <a href="https://chromewebstore.google.com/detail/easy-stickers/dkdndeekfmejgnnjladaaahjgjplnand">Easy Stickers</a></li>
   <li>🕹️ Mi plugin JS: <a href="https://www.npmjs.com/package/hequalizer">Hequalizer</a></li>
+  <li>🕹️ Mi otro plugin JS: <a href="https://swappit.soylenin.com">Swappit</a></li>
 </ul>
 
 <img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
